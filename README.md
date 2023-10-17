@@ -3,6 +3,5 @@
 EN <> PL e-commerce, finance, and blockchain translator since 2017.
 
 - 🫡 I believe in universal access to online content. It includes both translation and localization, as well as expertise in new technologies.
-- 💻 Currently, I work, among others, in exchanges: Crypto.com, OKX, and Bitget.
-- 📚 In 2020. I founded '[Akademia Tłumacza](https://akademiatlumacza.pl/)' - courses for anyone interested in a translator's career.
+- 💻 I work, among others, in exchanges: Crypto.com, OKX, and Bitget.
 - 📫 How to reach me: [piotrobiegly.com](http://piotrobiegly.com/)
