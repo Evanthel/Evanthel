@@ -1,6 +1,7 @@
-## Hi there 👋
-#### I'm Piotr Obiegły / Evanthel
-EN <> PL e-commerce, finance, and blockchain translator since 2017.
+## Hi there 👋  
+#### I'm Piotr Obiegły / Evanthel  
+🎯 **EN <> PL Translator specializing in finance, e-commerce, and blockchain since 2017**  
 
-- 💻 I work, among others, in exchanges: Crypto.com, and OKX.
-- 📫 How to reach me: [piotrobiegly.com](http://piotrobiegly.com/)
+- 💻 Worked with leading platforms and businesses like **Crypto.com**, **Samsung** **OKX**, delivering accurate and impactful translations.  
+- 🌍 Passionate about bridging linguistic and cultural gaps in the fast-paced digital economy.  
+- 📫 **Let's connect:** [piotrobiegly.com](http://piotrobiegly.com/)  
