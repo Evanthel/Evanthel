@@ -1,5 +1,5 @@
 ## Hi there! I'm Piotr / Evanthel 👋
-### EN <> PL Translator specializing in finance, e-commerce, and blockchain since 2017
+### Translator turned tech enthusiast at the crossroads of language, code, and data.
 <a href="https://www.linkedin.com/in/piotr-obiegly"><img align="left" alt="Piotr - LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <br> 
 <br>
