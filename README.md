@@ -15,5 +15,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![evanthel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evanthel&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+
