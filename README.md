@@ -47,6 +47,6 @@ I bring 10+ years of experience in translation, localization, and multilingual p
 
 ## Links
 
-[![Website](https://img.shields.io/badge/Website-language%20%2B%20code%20%2B%20ai-111111?style=for-the-badge)](https://piotrobiegly.github.io/piotrobiegly/)
+[![Website](https://img.shields.io/badge/Website-language%20%2B%20code%20%2B%20ai-111111?style=for-the-badge)](https://piotrobiegly.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-obiegly)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/piotrobiegly)
