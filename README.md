@@ -1,15 +1,52 @@
-# About Me:
-Translator turned AI-focused developer at the crossroads of language, code, and data. With nearly a decade in fintech, e-commerce, and blockchain, I have worked with global clients across languages and platforms. Now focused on building and experimenting with AI- and NLP-driven tools for multilingual content, automation, and language-focused applications.
+# Hi, I'm Piotr Obiegly
 
-# What you’ll find here:
-- Python projects related to data analysis, NLP, and language-focused experimentation
-- Coursework and capstone-style projects from AI and ML training
-- Exploratory notebooks connecting linguistics, cognition, and machine learning
-- Building AI/NLP workflows and experiments (e.g. text processing pipelines, automation, and model-based analysis)
+AI/NLP-focused developer working at the intersection of language, code, and applied AI.
 
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logoColor=white)](https://linkedin.com/in/piotr-obiegly) 
+I bring 10+ years of experience in translation, localization, and multilingual product systems. I now build on that foundation through Python, JavaScript, data workflows, and practical AI tools for language-focused and user-facing applications.
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Current focus
 
+- LLM workflows, prompting, and structured outputs
+- Python for language tooling and automation
+- browser-based AI tools and API integrations
+- data analysis and decision support
+- multilingual product quality, terminology, and localization systems
+
+## Featured projects
+
+- [SmartWatch - AI YouTube Video Analyzer](https://github.com/Evanthel/smartwatch-youtube-analyzer)  
+  Chrome extension with transcript retrieval, Gemini-based analysis, saved settings, and side-panel UX for goal-driven video review.
+
+- [Applied NLP & LLM Experiments](https://github.com/Evanthel/Applied-NLP-LLM-Experiments)  
+  Hands-on experiments in NLP, local LLM inference, evaluation, classical ML, and small deep learning builds.
+
+- [Polar Recovery Exporter](https://github.com/Evanthel/polar_recovery_exporter)  
+  Python tool built on the Polar AccessLink API to export daily recovery metrics into an analysis-ready CSV pipeline.
+
+- [Text Analysis Toolkit](https://github.com/Evanthel/text-analysis-toolkit)  
+  Small CLI toolkit for exploring plain-text documents, reporting word frequencies, and exporting results to text and SQLite.
+
+- [Statistics Notes in R](https://github.com/Evanthel/statistics-notes-r)  
+  Public collection of self-contained R notes and worked analyses focused on practical statistics and model interpretation.
+
+## Technical themes
+
+- applied NLP and LLM experimentation
+- language tooling and automation in Python
+- browser-based AI products and API integrations
+- evaluation-oriented workflows and decision-support tooling
+- multilingual product systems, terminology, and localization quality
+
+## Stack
+
+**AI / NLP:** LLM workflows, prompting, structured outputs, spaCy, Hugging Face, PyTorch
+
+**Programming:** Python, JavaScript, HTML/CSS, Pandas, SQL, R, REST APIs, Git/GitHub
+
+**Localization & product quality:** memoQ, Trados Studio, Lokalise, Phrase, Crowdin, localization engineering, terminology management, product QA
+
+## Links
+
+[![Website](https://img.shields.io/badge/Website-language%20%2B%20code%20%2B%20ai-111111?style=for-the-badge)](https://piotrobiegly.github.io/piotrobiegly/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-obiegly)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/piotrobiegly)
