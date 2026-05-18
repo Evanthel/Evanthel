@@ -23,8 +23,8 @@ I bring 10+ years of experience in translation, localization, and multilingual p
 - [Polar Recovery Exporter](https://github.com/Evanthel/polar_recovery_exporter)  
   Python tool built on the Polar AccessLink API to export daily recovery metrics into an analysis-ready CSV pipeline.
 
-- [Text Analysis Toolkit](https://github.com/Evanthel/text-analysis-toolkit)  
-  Small CLI toolkit for exploring plain-text documents, reporting word frequencies, and exporting results to text and SQLite.
+- [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag)  
+  Local-first Python CLI for extracting PDFs into structured JSON, building a vector index, and answering grounded cross-document queries with OCR fallback and evaluation workflows.
 
 - [Statistics Notes in R](https://github.com/Evanthel/statistics-notes-r)  
   Public collection of self-contained R notes and worked analyses focused on practical statistics and model interpretation.
