@@ -26,22 +26,16 @@ I bring 10+ years of experience in translation, localization, and multilingual p
 - [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag)  
   Local-first Python CLI for extracting PDFs into structured JSON, building a vector index, and answering grounded cross-document queries with OCR fallback and evaluation workflows.
 
-- [Statistics Notes in R](https://github.com/Evanthel/statistics-notes-r)  
-  Public collection of self-contained R notes and worked analyses focused on practical statistics and model interpretation.
-
-## Technical themes
-
-- applied NLP and LLM experimentation
-- language tooling and automation in Python
-- browser-based AI products and API integrations
-- evaluation-oriented workflows and decision-support tooling
-- multilingual product systems, terminology, and localization quality
+- [ShortsAI](https://github.com/Evanthel/shorts-ai)  
+  Weather-aware outfit planner built with shared web and mobile logic, deterministic recommendation rules, and an AI explanation layer constrained to explain rather than decide.
 
 ## Stack
 
-**AI / NLP:** LLM workflows, prompting, structured outputs, spaCy, Hugging Face, PyTorch
+**AI / NLP:** LLM workflows, prompting, structured outputs, retrieval-oriented pipelines, spaCy, Hugging Face, PyTorch
 
-**Programming:** Python, JavaScript, HTML/CSS, Pandas, SQL, R, REST APIs, Git/GitHub
+**Programming:** Python, TypeScript, JavaScript, React, Next.js, Expo, HTML/CSS, Pandas, SQL, REST APIs, Git/GitHub
+
+**Data & platforms:** Supabase, vector databases, browser extension development, CLI tooling, evaluation workflows
 
 **Localization & product quality:** memoQ, Trados Studio, Lokalise, Phrase, Crowdin, localization engineering, terminology management, product QA
 
