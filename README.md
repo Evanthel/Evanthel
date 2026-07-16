@@ -2,7 +2,7 @@
 
 AI/NLP-focused developer working at the intersection of language, code, and applied AI.
 
-I bring 10+ years of experience in translation, localization, and multilingual product systems. I now build on that foundation through Python, JavaScript, data workflows, and practical AI tools for language-focused and user-facing applications.
+I bring 10+ years of experience in translation, localization, and multilingual product systems. I now build on that foundation through Python, TypeScript/JavaScript, data workflows, and practical AI tools for language-focused and user-facing applications.
 
 ## Current focus
 
@@ -14,20 +14,20 @@ I bring 10+ years of experience in translation, localization, and multilingual p
 
 ## Featured projects
 
-- [SmartWatch - AI YouTube Video Analyzer](https://github.com/Evanthel/smartwatch-youtube-analyzer)  
+- [SmartWatch - AI YouTube Video Analyzer](https://github.com/Evanthel/smartwatch-youtube-analyzer) | [Chrome Web Store](https://chromewebstore.google.com/detail/smartwatch/fopiegopbjbnjkdddkebeopmjmkclbda)<br>
   Chrome extension with transcript retrieval, Gemini-based analysis, saved settings, and side-panel UX for goal-driven video review.
 
-- [Xenophon - RAG Agent & MCP Server](https://github.com/Evanthel/xenophon-rag-agent)<br>
+- [Xenophon - RAG Agent & MCP Server](https://github.com/Evanthel/xenophon-rag-agent) | [Live demo](https://evanthel.github.io/xenophon-rag-agent/)<br>
   Portfolio AI assistant combining Supabase/pgvector RAG, inspectable planning and grounding verification, side-by-side evaluation, and an MCP server exposing the knowledge base.
 
-- [Polar Recovery Exporter](https://github.com/Evanthel/polar_recovery_exporter)  
-  Python tool built on the Polar AccessLink API to export daily recovery metrics into an analysis-ready CSV pipeline.
+- [ShortsAI](https://github.com/Evanthel/shorts-ai) | [Live demo](https://shorts-ai-theta.vercel.app)<br>
+  Weather-aware outfit planner built with shared web and mobile logic, deterministic recommendation rules, and an AI explanation layer constrained to explain rather than decide.
 
-- [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag)  
+- [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag)<br>
   Local-first Python CLI for extracting PDFs into structured JSON, building a vector index, and answering grounded cross-document queries with OCR fallback and evaluation workflows.
 
-- [ShortsAI](https://github.com/Evanthel/shorts-ai)  
-  Weather-aware outfit planner built with shared web and mobile logic, deterministic recommendation rules, and an AI explanation layer constrained to explain rather than decide.
+- [Polar Recovery Exporter](https://github.com/Evanthel/polar_recovery_exporter)<br>
+  Python tool built on the Polar AccessLink API to export daily recovery metrics into an analysis-ready CSV pipeline.
 
 ## Stack
 
