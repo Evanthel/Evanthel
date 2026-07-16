@@ -17,8 +17,8 @@ I bring 10+ years of experience in translation, localization, and multilingual p
 - [SmartWatch - AI YouTube Video Analyzer](https://github.com/Evanthel/smartwatch-youtube-analyzer)  
   Chrome extension with transcript retrieval, Gemini-based analysis, saved settings, and side-panel UX for goal-driven video review.
 
-- [Applied NLP & LLM Experiments](https://github.com/Evanthel/Applied-NLP-LLM-Experiments)  
-  Hands-on experiments in NLP, local LLM inference, evaluation, classical ML, and small deep learning builds.
+- [Xenophon - RAG Agent & MCP Server](https://github.com/Evanthel/xenophon-rag-agent)<br>
+  Portfolio AI assistant combining Supabase/pgvector RAG, inspectable planning and grounding verification, side-by-side evaluation, and an MCP server exposing the knowledge base.
 
 - [Polar Recovery Exporter](https://github.com/Evanthel/polar_recovery_exporter)  
   Python tool built on the Polar AccessLink API to export daily recovery metrics into an analysis-ready CSV pipeline.
