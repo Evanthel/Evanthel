@@ -24,7 +24,7 @@ I bring 10+ years of experience in translation, localization, and multilingual p
   Weather-aware outfit planner built with shared web and mobile logic, deterministic recommendation rules, and an AI explanation layer constrained to explain rather than decide.
 
 - [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag)<br>
-  Local-first Python CLI for extracting PDFs into structured JSON, building a vector index, and answering grounded cross-document queries with OCR fallback and evaluation workflows.
+  Local-first Python document intelligence workspace with a web UI and CLI for structured PDF extraction, quality inspection, grounded retrieval, and page-level citations.
 
 - [Polar Recovery Exporter](https://github.com/Evanthel/polar_recovery_exporter)<br>
   Python tool built on the Polar AccessLink API to export daily recovery metrics into an analysis-ready CSV pipeline.
