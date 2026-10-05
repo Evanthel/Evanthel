@@ -23,7 +23,7 @@ I bring 10+ years of experience in translation, localization, and multilingual p
 - [ShortsAI](https://github.com/Evanthel/shorts-ai) | [Live demo](https://shorts-ai-theta.vercel.app)<br>
   Weather-aware outfit planner built with shared web and mobile logic, deterministic recommendation rules, and an AI explanation layer constrained to explain rather than decide.
 
-- [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag)<br>
+- [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag) | [Live demo](https://huggingface.co/spaces/Evanthel/pdf-to-json-rag-demo)<br>
   Local-first Python Document AI workspace with a web UI and CLI for structured PDF extraction, OCR fallback, quality inspection, multi-document retrieval, page-level citations, and reproducible benchmarks.
 
 - [Polar Recovery Exporter](https://github.com/Evanthel/polar_recovery_exporter)<br>
