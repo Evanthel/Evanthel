@@ -20,7 +20,7 @@ I bring 10+ years of experience in translation, localization, and multilingual p
 - [Xenophon - RAG Agent & MCP Server](https://github.com/Evanthel/xenophon-rag-agent) | [Live demo](https://evanthel.github.io/xenophon-rag-agent/)<br>
   Portfolio AI assistant combining Supabase/pgvector RAG, inspectable planning and grounding verification, side-by-side evaluation, and an MCP server exposing the knowledge base.
 
-- [ShortsAI](https://github.com/Evanthel/shorts-ai) | [Live demo](https://shorts-ai-theta.vercel.app)<br>
+- [ShortsAI](https://github.com/Evanthel/shorts-ai) | [App Store](https://apps.apple.com/us/app/shortsai-outfit-planner/id6802782916) | [Live demo](https://shorts-ai-theta.vercel.app)<br>
   Weather-aware outfit planner built with shared web and mobile logic, deterministic recommendation rules, and an AI explanation layer constrained to explain rather than decide.
 
 - [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag) | [Live demo](https://huggingface.co/spaces/Evanthel/pdf-to-json-rag-demo)<br>
