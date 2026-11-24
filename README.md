@@ -25,7 +25,7 @@ Local-first Python document workspace with a web UI and CLI for structured PDF e
 
 [Live demo →](https://huggingface.co/spaces/Evanthel/pdf-to-json-rag-demo)
 
-### [ShortsAI](https://github.com/Evanthel/shorts-ai)
+### ShortsAI
 Weather-aware outfit planner with shared React/Expo application logic, deterministic recommendation rules, and a constrained AI layer that explains the selected outfit.
 
 [App Store →](https://apps.apple.com/us/app/shortsai-outfit-planner/id6802782916) · [Live demo →](https://shorts-ai-theta.vercel.app)
