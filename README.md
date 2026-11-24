@@ -1,46 +1,54 @@
-# Hi, I'm Piotr Obiegły
+<p>
+  <img src="assets/profile-header.svg" alt="Piotr Obiegły — Applied AI · Language · Software. AI/NLP-focused developer." width="1200" />
+</p>
 
-AI/NLP-focused developer working at the intersection of language, code, and applied AI.
+I build practical AI tools for language, documents, and everyday workflows.
 
-I bring 10+ years of experience in translation, localization, and multilingual product systems. I now build on that foundation through Python, TypeScript/JavaScript, data workflows, and practical AI tools for language-focused and user-facing applications.
+My foundation is 10+ years in translation, localization, and multilingual product quality. Today, I build with Python, TypeScript, and LLMs, with a focus on useful applications and inspectable results.
 
-## Current focus
+[Website](https://piotrobiegly.com/) · [LinkedIn](https://www.linkedin.com/in/piotr-obiegly) · [Hugging Face](https://huggingface.co/Evanthel) · [Kaggle](https://www.kaggle.com/piotrobiegly)
 
-- LLM workflows, prompting, and structured outputs
-- Python for language tooling and automation
-- browser-based AI tools and API integrations
-- data analysis and decision support
-- multilingual product quality, terminology, and localization systems
+## Selected work
 
-## Featured projects
+### [SmartWatch](https://github.com/Evanthel/smartwatch-youtube-analyzer)
+Chrome extension combining YouTube transcript retrieval with Gemini-based analysis guided by user-defined goals, persistent settings, and a side-panel interface.
 
-- [SmartWatch - AI YouTube Video Analyzer](https://github.com/Evanthel/smartwatch-youtube-analyzer) | [Chrome Web Store](https://chromewebstore.google.com/detail/smartwatch/fopiegopbjbnjkdddkebeopmjmkclbda)<br>
-  Chrome extension with transcript retrieval, Gemini-based analysis, saved settings, and side-panel UX for goal-driven video review.
+`Chrome extension` `Gemini` `Transcript analysis`<br>
+[Chrome Web Store →](https://chromewebstore.google.com/detail/smartwatch/fopiegopbjbnjkdddkebeopmjmkclbda)
 
-- [Xenophon - RAG Agent & MCP Server](https://github.com/Evanthel/xenophon-rag-agent) | [Live demo](https://evanthel.github.io/xenophon-rag-agent/)<br>
-  Portfolio AI assistant combining Supabase/pgvector RAG, inspectable planning and grounding verification, side-by-side evaluation, and an MCP server exposing the knowledge base.
+### [Xenophon](https://github.com/Evanthel/xenophon-rag-agent)
+Portfolio AI assistant built on Supabase/pgvector RAG, with inspectable planning, grounding verification, side-by-side evaluation, and an MCP server exposing the knowledge base.
 
-- [ShortsAI](https://github.com/Evanthel/shorts-ai) | [App Store](https://apps.apple.com/us/app/shortsai-outfit-planner/id6802782916) | [Live demo](https://shorts-ai-theta.vercel.app)<br>
-  Weather-aware outfit planner built with shared web and mobile logic, deterministic recommendation rules, and an AI explanation layer constrained to explain rather than decide.
+`RAG` `Supabase / pgvector` `MCP`<br>
+[Live demo →](https://evanthel.github.io/xenophon-rag-agent/)
 
-- [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag) | [Live demo](https://huggingface.co/spaces/Evanthel/pdf-to-json-rag-demo)<br>
-  Local-first Python Document AI workspace with a web UI and CLI for structured PDF extraction, OCR fallback, quality inspection, multi-document retrieval, page-level citations, and reproducible benchmarks.
+### [PDF-to-JSON RAG](https://github.com/Evanthel/pdf-to-json-rag)
+Local-first Python document workspace with a web UI and CLI for structured PDF extraction, OCR fallback, and multi-document retrieval, with page-level citations and reproducible benchmarks.
 
-- [Polar Recovery Exporter](https://github.com/Evanthel/polar_recovery_exporter)<br>
-  Python tool built on the Polar AccessLink API to export daily recovery metrics into an analysis-ready CSV pipeline.
+`Python` `Document AI` `OCR`<br>
+[Live demo →](https://huggingface.co/spaces/Evanthel/pdf-to-json-rag-demo)
 
-## Stack
+### [ShortsAI](https://github.com/Evanthel/shorts-ai)
+Weather-aware outfit planner with shared React/Expo application logic, deterministic recommendation rules, and a constrained AI layer that explains the selected outfit.
 
-**AI / NLP:** LLM workflows, prompting, structured outputs, retrieval-oriented pipelines, spaCy, Hugging Face, PyTorch
+`React / Expo` `Weather data` `Applied AI`<br>
+[App Store →](https://apps.apple.com/us/app/shortsai-outfit-planner/id6802782916) · [Live demo →](https://shorts-ai-theta.vercel.app)
 
-**Programming:** Python, TypeScript, JavaScript, React, Next.js, Expo, HTML/CSS, Pandas, SQL, REST APIs, Git/GitHub
+**More work:** [Polar Recovery Exporter](https://github.com/Evanthel/polar_recovery_exporter) — Python pipeline using the Polar AccessLink API to export daily recovery metrics to analysis-ready CSV.
 
-**Data & platforms:** Supabase, vector databases, browser extension development, CLI tooling, evaluation workflows
+## Toolkit
 
-**Localization & product quality:** memoQ, Trados Studio, Lokalise, Phrase, Crowdin, localization engineering, terminology management, product QA
+- **AI / NLP:** LLM workflows, RAG, agent workflows, MCP, embeddings, structured outputs, OCR
+- **Development:** Python, TypeScript / JavaScript, React, Next.js, Expo, Pydantic, REST APIs
+- **Data:** PostgreSQL, pgvector, ChromaDB, Supabase, Pandas
+- **Testing & evaluation:** pytest, GitHub Actions, retrieval and faithfulness evaluation
+- **Language & product quality:** Localization engineering, terminology management, multilingual product QA
 
-## Links
+<details>
+<summary>Additional tools & libraries</summary>
 
-[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge)](https://piotrobiegly.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-obiegly)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/piotrobiegly)
+**AI & analysis:** spaCy, PyTorch, Hugging Face, R, Jupyter Notebooks<br>
+**Localization:** memoQ, Trados Studio, Lokalise, Phrase, Crowdin, Xbench<br>
+**Workflow & quality:** Git, pgTAP, Jira, Linear, Confluence
+
+</details>
